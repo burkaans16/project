@@ -1,2 +1,0 @@
-# skola
-skolas projekts
