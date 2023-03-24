@@ -1,1 +1,1 @@
-# project
+# skolas uzdevums informātikā
