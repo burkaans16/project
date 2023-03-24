@@ -1,1 +1,2 @@
-# project
+# skola
+skolas projekts
