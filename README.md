@@ -1,1 +1,1 @@
-# skolas uzdevums informātik;a
+# skolas uzdevums informātikā
